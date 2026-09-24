@@ -27,7 +27,7 @@ HISTORY_DIR = ROOT / "data" / "history"
 REPORT_DIR = ROOT / "reports"
 
 CONFIG = {
-    "min_category_mcap": float(os.getenv("MIN_CATEGORY_MCAP", 100_000_000)),   # bỏ category < $100M
+    "min_category_mcap": float(os.getenv("MIN_CATEGORY_MCAP", 500_000_000)),   # bỏ category < $500M
     "min_category_volume": float(os.getenv("MIN_CATEGORY_VOLUME", 5_000_000)), # bỏ category volume < $5M
     "min_chain_stable": float(os.getenv("MIN_CHAIN_STABLE", 10_000_000)),      # bỏ chain có < $10M stablecoin
     "exclude_keywords": ["portfolio", "holdings", "launchpool", "launchpad", "alleged"],
