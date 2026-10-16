@@ -1,56 +1,64 @@
-# 📊 Báo cáo dòng tiền theo sector — 15/10/2026
+# 📊 Báo cáo dòng tiền theo sector — 16/10/2026
 
-_Cập nhật lúc 10:59 (GMT+7) · Nguồn: CoinGecko, DefiLlama_
+_Cập nhật lúc 10:56 (GMT+7) · Nguồn: CoinGecko, DefiLlama_
 
 ## ⚡ Tóm tắt nhanh
 
-- Sector tăng mạnh nhất: **Tokenized Private Credit** (+1.62%, +$396.25M)
-- Hút nhiều vốn hóa nhất (tính theo $): **Tokenized Private Credit** (+$396.25M)
-- Volume đột biến nhất: **Storage** (2.2x trung bình 7 ngày)
-- Stablecoin chảy vào nhiều nhất: **Ethereum** (+$63.46M / 24h)
-- Tổng cung stablecoin USD: $305.76B (−$366.60M 24h · −$1.64B 7 ngày)
+- Sector tăng mạnh nhất: **DeFAI** (+12.93%, +$97.73M)
+- Hút nhiều vốn hóa nhất (tính theo $): **Smart Contract Platform** (+$48.71B)
+- Volume đột biến nhất: **Yield-Bearing Tokens** (2.0x trung bình 7 ngày)
+- Stablecoin chảy vào nhiều nhất: **Solana** (+$136.86M / 24h)
+- Tổng cung stablecoin USD: $305.15B (−$352.87M 24h · −$1.41B 7 ngày)
 
 ## 🚀 Sector tăng vốn hóa mạnh nhất (24h)
 
 | # | Sector | MC 24h | Δ MC | Market cap | Volume 24h | Top coins |
 |---|---|---|---|---|---|---|
-| 1 | Tokenized Private Credit | +1.62% | +$396.25M | $24.78B | $43.00M | figure-heloc, pareto-aa-tranche-falconx-usdc |
-| 2 | Tokenized Exchange-Traded Funds (ETFs) | +1.52% | +$9.13M | $609.86M | $249.66M | sp500-xstock, ishares-core-s-p-500-etf-ondo-tokenized-etf, spdr-s-p-500-etf-ondo-tokenized-etf |
-| 3 | Tokenized Exchange-Traded Product (ETPs) | +1.52% | +$9.13M | $609.89M | $249.66M | sp500-xstock, ishares-core-s-p-500-etf-ondo-tokenized-etf, spdr-s-p-500-etf-ondo-tokenized-etf |
-| 4 | Yield-Bearing Stablecoin | +1.39% | +$41.52M | $3.03B | $31.18M | susds, ondo-us-dollar-yield, bfusd |
-| 5 | Synthetic Dollar | +1.10% | +$74.90M | $6.87B | $54.94M | ethena-usde, falcon-finance, usdai |
-| 6 | Crypto-backed Stablecoin | +0.90% | +$46.05M | $5.15B | $343.76M | dai, falcon-finance, usdd |
-| 7 | Tokenized Assets | +0.56% | +$269.52M | $48.26B | $1.89B | figure-heloc, tether-gold, hashnote-usyc |
-| 8 | EUR Stablecoin | +0.35% | +$2.81M | $811.80M | $81.61M | euro-coin, societe-generale-forge-eurcv, royal-euro |
-| 9 | Yield-Bearing Tokens | +0.24% | +$6.76M | $2.77B | $12.94M | ondo-us-dollar-yield, susdai, savings-usdd |
+| 1 | DeFAI | +12.93% | +$97.73M | $853.69M | $68.04M | derive, cortex-2, mantis |
+| 2 | Data Availability | +11.93% | +$851.30M | $7.99B | $1.51B | near, celestia, unibase |
+| 3 | Modular Blockchain | +11.70% | +$83.98M | $801.51M | $157.86M | celestia, movement, cartesi |
+| 4 | Prediction Markets | +11.01% | +$690.06M | $6.96B | $25.15M | rain, drift-protocol, opinion |
+| 5 | Options | +10.91% | +$719.29M | $7.31B | $26.24M | rain, derive, hegic |
+| 6 | Liquid Restaking Governance Tokens | +10.73% | +$102.39M | $1.06B | $195.89M | ether-fi, pendle, puffer-finance |
+| 7 | Gambling (GambleFi) | +10.17% | +$701.31M | $7.60B | $22.95M | rain, shuffle-2, bc-token |
+| 8 | Restaking | +9.91% | +$131.34M | $1.46B | $283.95M | wrapped-eeth, kelp-dao-restaked-eth, lombard-staked-btc |
+| 9 | Quantum-Resistant | +9.24% | +$1.91B | $22.54B | $1.78B | zcash, algorand, starknet |
+| 10 | Tokenized Exchange-Traded Funds (ETFs) | +9.24% | +$56.34M | $666.44M | $263.40M | sp500-xstock, ishares-core-s-p-500-etf-ondo-tokenized-etf, spdr-s-p-500-etf-ondo-tokenized-etf |
 
 ## 💰 Top sector hút vốn hóa nhiều nhất (tính theo $)
 
 | # | Sector | MC 24h | Δ MC | Market cap | Volume 24h | Top coins |
 |---|---|---|---|---|---|---|
-| 1 | Tokenized Private Credit | +1.62% | +$396.25M | $24.78B | $43.00M | figure-heloc, pareto-aa-tranche-falconx-usdc |
-| 2 | Tokenized Assets | +0.56% | +$269.52M | $48.26B | $1.89B | figure-heloc, tether-gold, hashnote-usyc |
-| 3 | Synthetic Dollar | +1.10% | +$74.90M | $6.87B | $54.94M | ethena-usde, falcon-finance, usdai |
-| 4 | Crypto-backed Stablecoin | +0.90% | +$46.05M | $5.15B | $343.76M | dai, falcon-finance, usdd |
-| 5 | Yield-Bearing Stablecoin | +1.39% | +$41.52M | $3.03B | $31.18M | susds, ondo-us-dollar-yield, bfusd |
+| 1 | Smart Contract Platform | +2.08% | +$48.71B | $2,388.83B | $70.03B | bitcoin, ethereum, binancecoin |
+| 2 | Layer 1 (L1) | +2.06% | +$47.52B | $2,353.14B | $66.14B | bitcoin, ethereum, binancecoin |
+| 3 | Proof of Work (PoW) | +1.68% | +$28.17B | $1,708.55B | $38.46B | bitcoin, zcash, dogecoin |
+| 4 | Proof of Stake (PoS) | +3.19% | +$16.89B | $546.37B | $25.71B | ethereum, binancecoin, solana |
+| 5 | Made in USA | +2.81% | +$9.61B | $351.96B | $34.84B | ripple, usd-coin, solana |
 
 ## 🔥 Đột biến volume (so với trung bình 7 ngày)
 
 | # | Sector | Volume 24h | TB 7 ngày | Gấp | MC 24h |
 |---|---|---|---|---|---|
-| 1 | Storage | $551.92M | $254.71M | 2.17x | -5.98% |
-| 2 | Tokenized Gold | $635.75M | $306.71M | 2.07x | -0.43% |
-| 3 | Tokenized Commodities | $649.72M | $322.26M | 2.02x | -0.59% |
-| 4 | bStocks Ecosystem | $563.74M | $305.52M | 1.85x | -1.31% |
-| 5 | EUR Stablecoin | $81.61M | $46.26M | 1.76x | +0.35% |
-| 6 | Tokenized Exchange-Traded Product (ETPs) | $249.66M | $150.99M | 1.65x | +1.52% |
-| 7 | Tokenized Exchange-Traded Funds (ETFs) | $249.66M | $150.99M | 1.65x | +1.52% |
-| 8 | Bittensor Subnets | $55.12M | $33.66M | 1.64x | -7.02% |
-| 9 | Tokenized Assets | $1.89B | $1.24B | 1.52x | +0.56% |
+| 1 | Yield-Bearing Tokens | $21.94M | $10.91M | 2.01x | +0.23% |
+| 2 | bStocks Ecosystem | $660.97M | $331.77M | 1.99x | +19.50% |
+| 3 | Elon Musk-Inspired | $1.27B | $669.55M | 1.89x | +2.61% |
+| 4 | Yield-Bearing Stablecoin | $52.97M | $28.36M | 1.87x | +0.06% |
+| 5 | 4chan-Themed | $1.63B | $960.31M | 1.70x | +2.88% |
+| 6 | Liquid Restaking Governance Tokens | $195.89M | $116.50M | 1.68x | +10.73% |
+| 7 | Dog-Themed | $1.48B | $894.88M | 1.65x | +2.90% |
+| 8 | Tokenized Stocks | $1.07B | $652.99M | 1.63x | +8.38% |
+| 9 | Tokenized Exchange-Traded Product (ETPs) | $263.40M | $167.38M | 1.57x | +9.23% |
+| 10 | Tokenized Exchange-Traded Funds (ETFs) | $263.40M | $167.38M | 1.57x | +9.24% |
 
 ## 🌐 Hệ sinh thái (ecosystem) tăng mạnh nhất
 
-_Không có dữ liệu._
+| # | Sector | MC 24h | Δ MC | Market cap | Volume 24h | Top coins |
+|---|---|---|---|---|---|---|
+| 1 | bStocks Ecosystem | +19.50% | +$166.34M | $1.02B | $660.97M | circle-internet-group-bstock, spacex-bstocks-tokenized-stock, sandisk-bstocks-tokenized-stock |
+| 2 | Venice Ecosystem | +12.42% | +$144.88M | $1.31B | $63.37M | venice-token, diem, dolphin-2 |
+| 3 | Ether.fi Ecosystem | +11.36% | +$66.12M | $648.12M | $59.55M | wrapped-eeth, ether-fi, ether-fi-staked-eth |
+| 4 | Curve Ecosystem | +8.03% | +$60.95M | $819.80M | $130.26M | curve-dao-token, convex-finance, frax-share |
+| 5 | BackedFi xStocks Ecosystem | +6.30% | +$51.91M | $876.47M | $135.45M | strategy-pp-variable-xstock, microstrategy-xstock, circle-xstock |
 
 ## 💵 Dòng stablecoin theo chain
 
@@ -58,44 +66,44 @@ _Không có dữ liệu._
 
 | # | Chain | Δ 24h | % 24h | Δ 7 ngày | Tổng stablecoin |
 |---|---|---|---|---|---|
-| 1 | Ethereum | +$63.46M | +0.04% | −$861.24M | $145.27B |
-| 2 | Polygon | +$46.57M | +1.41% | −$78.95M | $3.35B |
-| 3 | Stellar | +$34.65M | +8.17% | +$70.79M | $458.91M |
-| 4 | XRPL | +$26.80M | +2.41% | −$167.90M | $1.14B |
-| 5 | Arc | +$25.68M | +4.50% | +$27.76M | $596.58M |
-| 6 | Sui | +$25.19M | +5.04% | +$43.39M | $525.05M |
-| 7 | Avalanche | +$15.44M | +1.09% | −$22.33M | $1.43B |
+| 1 | Solana | +$136.86M | +0.86% | −$5.24M | $16.12B |
+| 2 | Stellar | +$42.65M | +9.35% | +$104.35M | $498.72M |
+| 3 | Base | +$24.94M | +0.48% | +$36.82M | $5.21B |
+| 4 | TON | +$20.16M | +2.80% | +$20.41M | $739.24M |
+| 5 | Arc | +$16.30M | +2.72% | +$91.36M | $614.78M |
+| 6 | Hyperliquid L1 | +$10.69M | +0.15% | −$74.10M | $7.12B |
+| 7 | Sonic | +$3.37M | +2.14% | −$637.14K | $160.76M |
 
 **Rút ra nhiều nhất 24h**
 
 | # | Chain | Δ 24h | % 24h | Δ 7 ngày | Tổng stablecoin |
 |---|---|---|---|---|---|
-| 1 | Solana | −$257.92M | -1.59% | −$366.21M | $15.99B |
-| 2 | Hyperliquid L1 | −$75.13M | -1.05% | −$259.06M | $7.11B |
-| 3 | Tron | −$73.91M | -0.08% | +$405.33M | $94.63B |
-| 4 | X Layer | −$69.34M | -4.27% | −$9.13M | $1.55B |
-| 5 | BSC | −$52.90M | -0.37% | −$146.39M | $14.36B |
+| 1 | Arbitrum | −$167.50M | -4.21% | −$468.13M | $3.81B |
+| 2 | OP Mainnet | −$107.20M | -15.53% | −$18.03M | $583.22M |
+| 3 | Tron | −$101.79M | -0.11% | +$274.34M | $94.52B |
+| 4 | X Layer | −$49.87M | -3.22% | −$92.09M | $1.50B |
+| 5 | BSC | −$46.75M | -0.33% | −$132.91M | $14.32B |
 
 **Xu hướng 7 ngày — hút stablecoin mạnh nhất**
 
 | # | Chain | Δ 7 ngày | % 7 ngày | Tổng stablecoin |
 |---|---|---|---|---|
-| 1 | Tron | +$405.33M | +0.43% | $94.63B |
-| 2 | OP Mainnet | +$102.47M | +17.39% | $691.56M |
-| 3 | Stellar | +$70.79M | +18.24% | $458.91M |
-| 4 | Sui | +$43.39M | +9.01% | $525.05M |
-| 5 | Arc | +$27.76M | +4.88% | $596.58M |
+| 1 | Tron | +$274.34M | +0.29% | $94.52B |
+| 2 | Stellar | +$104.35M | +26.46% | $498.72M |
+| 3 | Arc | +$91.36M | +17.45% | $614.78M |
+| 4 | Base | +$36.82M | +0.71% | $5.21B |
+| 5 | Sui | +$27.41M | +5.63% | $514.05M |
 
 
 ## 📉 Sector giảm mạnh nhất (24h)
 
 | # | Sector | MC 24h | Δ MC | Market cap | Volume 24h | Top coins |
 |---|---|---|---|---|---|---|
-| 1 | Yield Farming | -25.72% | −$4.62B | $13.35B | $1.17B | uniswap, bitway, aave |
-| 2 | Binance Alpha Spotlight | -18.74% | −$5.00B | $21.65B | $2.12B | bitway, ondo-finance, memecore |
-| 3 | Governance | -13.20% | −$6.92B | $45.51B | $3.69B | hyperliquid, uniswap, bitway |
-| 4 | Quantum-Resistant | -12.45% | −$2.93B | $20.61B | $1.34B | zcash, algorand, starknet |
-| 5 | Liquid Restaking Governance Tokens | -12.44% | −$135.97M | $957.32M | $124.33M | ether-fi, pendle, puffer-finance |
+| 1 | VPN | -8.71% | −$59.26M | $620.81M | $5.29M | beldex, nym, gamecow |
+| 2 | Name Service | -4.85% | −$44.26M | $868.16M | $20.36M | beldex, ethereum-name-service, bonfida |
+| 3 | Masternodes | -1.31% | −$18.23M | $1.37B | $71.85M | dash, beldex, ontology |
+| 4 | Wallets | -1.13% | −$31.56M | $2.76B | $80.75M | kaspa, beldex, backpack |
+| 5 | Tokenized Private Credit | -0.52% | −$129.31M | $24.65B | $215.62M | figure-heloc, pareto-aa-tranche-falconx-usdc |
 
 
 ---
