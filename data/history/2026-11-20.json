@@ -1,0 +1,749 @@
+{
+ "date": "2026-11-20",
+ "categories": {
+  "smart-contract-platform": {
+   "name": "Smart Contract Platform",
+   "mcap": 1787511353016.8936,
+   "volume_24h": 59708623539.22475,
+   "mcap_pct_24h": -3.053483178048188
+  },
+  "layer-1": {
+   "name": "Layer 1 (L1)",
+   "mcap": 1763203453796.4504,
+   "volume_24h": 58178971520.20178,
+   "mcap_pct_24h": -3.0467150299200285
+  },
+  "proof-of-work-pow": {
+   "name": "Proof of Work (PoW)",
+   "mcap": 1288264545139.5056,
+   "volume_24h": 37645869150.78128,
+   "mcap_pct_24h": -3.0025674048277726
+  },
+  "proof-of-stake-pos": {
+   "name": "Proof of Stake (PoS)",
+   "mcap": 402636011368.2206,
+   "volume_24h": 18313905194.19243,
+   "mcap_pct_24h": -3.3181674295276236
+  },
+  "stablecoins": {
+   "name": "Stablecoins",
+   "mcap": 280414259410.2265,
+   "volume_24h": 73481530174.1127,
+   "mcap_pct_24h": -0.6904777572306519
+  },
+  "usd-stablecoin": {
+   "name": "USD Stablecoin",
+   "mcap": 277588850626.26715,
+   "volume_24h": 73370584252.45853,
+   "mcap_pct_24h": -0.5736069020723322
+  },
+  "made-in-usa": {
+   "name": "Made in USA",
+   "mcap": 274733818428.22406,
+   "volume_24h": 24562320694.79264,
+   "mcap_pct_24h": -2.329854194669271
+  },
+  "fiat-backed-stablecoin": {
+   "name": "Fiat-backed Stablecoin",
+   "mcap": 267353377868.78882,
+   "volume_24h": 69432079375.926,
+   "mcap_pct_24h": -0.7481978472004122
+  },
+  "exchange-based-tokens": {
+   "name": "Exchange-based Tokens",
+   "mcap": 125198496433.74432,
+   "volume_24h": 3028049588.1895475,
+   "mcap_pct_24h": -3.4585365274678046
+  },
+  "made-in-china": {
+   "name": "Made in China",
+   "mcap": 114345459971.63005,
+   "volume_24h": 1160546561.4670975,
+   "mcap_pct_24h": -2.501692962103242
+  },
+  "base-native": {
+   "name": "Base Native",
+   "mcap": 101137738577.86885,
+   "volume_24h": 18282684549.821556,
+   "mcap_pct_24h": -2.4852231083950826
+  },
+  "centralized-exchange-token-cex": {
+   "name": "Centralized Exchange (CEX) Token",
+   "mcap": 99861474291.49472,
+   "volume_24h": 1022538788.3633726,
+   "mcap_pct_24h": -3.118666746812595
+  },
+  "genius-act-compliant-stablecoin": {
+   "name": "GENIUS Act Compliant Stablecoin",
+   "mcap": 71204199722.35464,
+   "volume_24h": 15400090165.629976,
+   "mcap_pct_24h": 0.5230256438431595
+  },
+  "mica-compliant-stablecoin": {
+   "name": "MiCA-Compliant Stablecoin",
+   "mcap": 69348186003.78572,
+   "volume_24h": 15280484013.677221,
+   "mcap_pct_24h": 0.48269310688862765
+  },
+  "real-world-assets-rwa": {
+   "name": "Real World Assets (RWA)",
+   "mcap": 68535251805.29212,
+   "volume_24h": 3142378719.194154,
+   "mcap_pct_24h": -1.5046167067173277
+  },
+  "decentralized-finance-defi": {
+   "name": "Decentralized Finance (DeFi)",
+   "mcap": 56441155888.243454,
+   "volume_24h": 4153286787.652405,
+   "mcap_pct_24h": -3.785974428501937
+  },
+  "tokenized-products": {
+   "name": "Tokenized Assets",
+   "mcap": 48518962571.40282,
+   "volume_24h": 2328015608.219848,
+   "mcap_pct_24h": -0.7357329975593714
+  },
+  "privacy": {
+   "name": "Privacy",
+   "mcap": 40789345501.066956,
+   "volume_24h": 2096620153.855583,
+   "mcap_pct_24h": -7.006724885315204
+  },
+  "governance": {
+   "name": "Governance",
+   "mcap": 32953286602.089546,
+   "volume_24h": 2733646488.036171,
+   "mcap_pct_24h": -4.423425720608998
+  },
+  "tokenized-private-credit": {
+   "name": "Tokenized Private Credit",
+   "mcap": 27388179254.480553,
+   "volume_24h": 99194034.92647897,
+   "mcap_pct_24h": -0.41210201096703036
+  },
+  "decentralized-exchange": {
+   "name": "Decentralized Exchange (DEX)",
+   "mcap": 26568624659.915672,
+   "volume_24h": 2080915383.7278645,
+   "mcap_pct_24h": -4.8495339290325745
+  },
+  "privacy-coins": {
+   "name": "Privacy Coins",
+   "mcap": 23895193389.37331,
+   "volume_24h": 941901268.6290038,
+   "mcap_pct_24h": -7.9106752944679535
+  },
+  "meme-token": {
+   "name": "Meme",
+   "mcap": 20508104377.489414,
+   "volume_24h": 1473261196.5049415,
+   "mcap_pct_24h": -3.2843543739442067
+  },
+  "decentralized-perpetuals": {
+   "name": "Perpetuals",
+   "mcap": 20123697036.921185,
+   "volume_24h": 1356341373.724101,
+   "mcap_pct_24h": -4.62513492182942
+  },
+  "infrastructure": {
+   "name": "Infrastructure",
+   "mcap": 19692728974.46159,
+   "volume_24h": 1108723982.060802,
+   "mcap_pct_24h": -3.922543418982935
+  },
+  "zero-knowledge-zk": {
+   "name": "Zero Knowledge (ZK)",
+   "mcap": 17852542524.88603,
+   "volume_24h": 1040835365.2773662,
+   "mcap_pct_24h": -8.026383631029478
+  },
+  "decentralized-derivatives": {
+   "name": "Derivatives",
+   "mcap": 17493973381.734463,
+   "volume_24h": 1166133997.5046804,
+   "mcap_pct_24h": -4.206547169422903
+  },
+  "artificial-intelligence": {
+   "name": "Artificial Intelligence (AI)",
+   "mcap": 17472493220.55423,
+   "volume_24h": 1609744703.9767613,
+   "mcap_pct_24h": -6.484039654780424
+  },
+  "quantum-resistant": {
+   "name": "Quantum-Resistant",
+   "mcap": 16630352797.213682,
+   "volume_24h": 985535246.8849245,
+   "mcap_pct_24h": -8.627562897851483
+  },
+  "binance-alpha-spotlight": {
+   "name": "Binance Alpha Spotlight",
+   "mcap": 15878173765.083225,
+   "volume_24h": 1369270297.181862,
+   "mcap_pct_24h": -2.0083415054519786
+  },
+  "privacy-infrastructure": {
+   "name": "Privacy Infrastructure",
+   "mcap": 13163493358.33644,
+   "volume_24h": 895011439.9539942,
+   "mcap_pct_24h": -5.4980140365999
+  },
+  "dog-themed-coins": {
+   "name": "Dog-Themed",
+   "mcap": 12270216073.705727,
+   "volume_24h": 591299668.1718847,
+   "mcap_pct_24h": -2.8670927992982684
+  },
+  "4chan-themed": {
+   "name": "4chan-Themed",
+   "mcap": 11274110167.543087,
+   "volume_24h": 856545700.7700313,
+   "mcap_pct_24h": -3.675581553257064
+  },
+  "chain-abstraction": {
+   "name": "Chain Abstraction",
+   "mcap": 10928637738.145578,
+   "volume_24h": 749982777.0715319,
+   "mcap_pct_24h": -5.99717751716046
+  },
+  "elon-musk-inspired-coins": {
+   "name": "Elon Musk-Inspired",
+   "mcap": 9059968883.821308,
+   "volume_24h": 446464431.3103514,
+   "mcap_pct_24h": -3.1099277369779785
+  },
+  "rwa-protocol": {
+   "name": "RWA Protocol",
+   "mcap": 9048638548.66453,
+   "volume_24h": 347914985.59120095,
+   "mcap_pct_24h": -3.0400622635290575
+  },
+  "cross-chain-communication": {
+   "name": "Cross-chain Communication",
+   "mcap": 8231494249.987278,
+   "volume_24h": 425697094.95714486,
+   "mcap_pct_24h": -3.485799034665668
+  },
+  "yield-farming": {
+   "name": "Yield Farming",
+   "mcap": 7821485359.956596,
+   "volume_24h": 733160826.1003609,
+   "mcap_pct_24h": -3.931902783154656
+  },
+  "depin": {
+   "name": "DePIN",
+   "mcap": 7638592828.420333,
+   "volume_24h": 514888561.6496869,
+   "mcap_pct_24h": -2.863765412402705
+  },
+  "oracle": {
+   "name": "Oracle",
+   "mcap": 7628545460.2212925,
+   "volume_24h": 307875395.40705615,
+   "mcap_pct_24h": -3.3055136919901154
+  },
+  "x402-ecosystem": {
+   "name": "x402 Ecosystem",
+   "mcap": 7478987455.745839,
+   "volume_24h": 241355321.51337594,
+   "mcap_pct_24h": -3.207122521498709
+  },
+  "layer-2": {
+   "name": "Layer 2 (L2)",
+   "mcap": 7219100700.953495,
+   "volume_24h": 489874566.90012443,
+   "mcap_pct_24h": -3.926272746753258
+  },
+  "synthetic-dollar": {
+   "name": "Synthetic Dollar",
+   "mcap": 6878325357.141179,
+   "volume_24h": 44222688.65580034,
+   "mcap_pct_24h": 1.3028779695031678
+  },
+  "privacy-blockchain": {
+   "name": "Privacy Blockchain",
+   "mcap": 6158372908.066352,
+   "volume_24h": 233252108.57456058,
+   "mcap_pct_24h": -3.5787978831159326
+  },
+  "stablecoin-issuer": {
+   "name": "Stablecoin Issuer",
+   "mcap": 6126301724.481689,
+   "volume_24h": 736636938.4739386,
+   "mcap_pct_24h": -4.92745531147335
+  },
+  "automated-market-maker-amm": {
+   "name": "Automated Market Maker (AMM)",
+   "mcap": 6102195615.594942,
+   "volume_24h": 600691913.321441,
+   "mcap_pct_24h": -5.472479996142932
+  },
+  "tokenized-commodities": {
+   "name": "Tokenized Commodities",
+   "mcap": 5185838527.487899,
+   "volume_24h": 675227547.2975025,
+   "mcap_pct_24h": -4.666337501151614
+  },
+  "defi-pulse-index-dpi": {
+   "name": "Index Coop Defi Index",
+   "mcap": 5080863923.45029,
+   "volume_24h": 918292490.7961287,
+   "mcap_pct_24h": -6.697505740541887
+  },
+  "tokenized-gold": {
+   "name": "Tokenized Gold",
+   "mcap": 4944776235.42904,
+   "volume_24h": 667376694.3831738,
+   "mcap_pct_24h": -4.607815571580735
+  },
+  "data-availability": {
+   "name": "Data Availability",
+   "mcap": 4713325456.837696,
+   "volume_24h": 593627075.7022071,
+   "mcap_pct_24h": -10.371107913981028
+  },
+  "trump-affiliated-tokens": {
+   "name": "Trump-Affiliated",
+   "mcap": 4655900128.33268,
+   "volume_24h": 1151966585.6133902,
+   "mcap_pct_24h": -0.6667991471296482
+  },
+  "crypto-backed-stablecoin": {
+   "name": "Crypto-backed Stablecoin",
+   "mcap": 4537204437.644085,
+   "volume_24h": 276776605.58659273,
+   "mcap_pct_24h": 2.7172089751835626
+  },
+  "bitcoin-fork": {
+   "name": "Bitcoin Fork",
+   "mcap": 4520552566.651082,
+   "volume_24h": 104799139.24267492,
+   "mcap_pct_24h": -1.25672693098219
+  },
+  "lending-borrowing": {
+   "name": "Lending/Borrowing Protocols",
+   "mcap": 3958948984.112677,
+   "volume_24h": 335602676.75732714,
+   "mcap_pct_24h": -3.652516177492375
+  },
+  "non-fungible-tokens-nft": {
+   "name": "NFT",
+   "mcap": 3701562244.0284505,
+   "volume_24h": 396290869.19881725,
+   "mcap_pct_24h": -2.1596152673054894
+  },
+  "gambling": {
+   "name": "Gambling (GambleFi)",
+   "mcap": 3677152524.223446,
+   "volume_24h": 22903575.813952483,
+   "mcap_pct_24h": -4.7382244557214
+  },
+  "decentralized-options": {
+   "name": "Options",
+   "mcap": 3414382291.483726,
+   "volume_24h": 18189448.313718155,
+   "mcap_pct_24h": -5.587616870343156
+  },
+  "directed-acyclic-graph-dag": {
+   "name": "Directed Acyclic Graph (DAG)",
+   "mcap": 3329682099.3458223,
+   "volume_24h": 73923815.16258864,
+   "mcap_pct_24h": -3.131055816731967
+  },
+  "prediction-markets": {
+   "name": "Prediction Markets",
+   "mcap": 3192622063.357155,
+   "volume_24h": 18417054.34167405,
+   "mcap_pct_24h": -5.364142317113208
+  },
+  "layer-0-l0": {
+   "name": "Layer 0 (L0)",
+   "mcap": 3166122917.430309,
+   "volume_24h": 160163979.675793,
+   "mcap_pct_24h": -4.435498233073916
+  },
+  "yield-bearing-stablecoins": {
+   "name": "Yield-Bearing Stablecoin",
+   "mcap": 3078149837.91826,
+   "volume_24h": 47530258.92813888,
+   "mcap_pct_24h": -0.33644416549244727
+  },
+  "gaming": {
+   "name": "Gaming (GameFi)",
+   "mcap": 2817287760.862878,
+   "volume_24h": 285180879.3468807,
+   "mcap_pct_24h": -2.0836188570420044
+  },
+  "ai-applications": {
+   "name": "AI Applications",
+   "mcap": 2802104775.0989227,
+   "volume_24h": 231428226.94497478,
+   "mcap_pct_24h": -1.3845377762900424
+  },
+  "yield-bearing-tokens": {
+   "name": "Yield-Bearing Tokens",
+   "mcap": 2795026580.6471605,
+   "volume_24h": 8414312.850929786,
+   "mcap_pct_24h": -0.04130910972150197
+  },
+  "crypto-card-issuer": {
+   "name": "Crypto Card Issuer",
+   "mcap": 2752842507.5513053,
+   "volume_24h": 14351640.838163434,
+   "mcap_pct_24h": -4.590992843952919
+  },
+  "ai-agents": {
+   "name": "AI Agents",
+   "mcap": 2724088373.98077,
+   "volume_24h": 208520591.43612474,
+   "mcap_pct_24h": -6.017210543813302
+  },
+  "tokenized-stock": {
+   "name": "Tokenized Stocks",
+   "mcap": 2692055879.4656024,
+   "volume_24h": 1161030229.4203932,
+   "mcap_pct_24h": -3.6798736470163385
+  },
+  "wallets": {
+   "name": "Wallets",
+   "mcap": 2236422424.399983,
+   "volume_24h": 44870236.69557087,
+   "mcap_pct_24h": -1.993447447413459
+  },
+  "neobank": {
+   "name": "Neobank",
+   "mcap": 2027164539.6642666,
+   "volume_24h": 86655164.77396876,
+   "mcap_pct_24h": -1.7932042092390827
+  },
+  "binance-wallet-ido": {
+   "name": "Binance Wallet IDO",
+   "mcap": 1983593134.1321645,
+   "volume_24h": 524234914.1615132,
+   "mcap_pct_24h": -4.0196370402334995
+  },
+  "frog-themed-coins": {
+   "name": "Frog-Themed",
+   "mcap": 1952070449.4552133,
+   "volume_24h": 395317878.7376456,
+   "mcap_pct_24h": -4.744530438387051
+  },
+  "solana-meme-coins": {
+   "name": "Solana Meme",
+   "mcap": 1939947581.044909,
+   "volume_24h": 343280563.03455794,
+   "mcap_pct_24h": -4.643532518493893
+  },
+  "binance-hodler-airdrops": {
+   "name": "Binance HODLer Airdrops",
+   "mcap": 1922890252.4376945,
+   "volume_24h": 614006492.3495265,
+   "mcap_pct_24h": -1.3487404911638234
+  },
+  "the-boy-s-club": {
+   "name": "The Boy’s Club",
+   "mcap": 1890207093.0171125,
+   "volume_24h": 382249171.89630157,
+   "mcap_pct_24h": -4.74245396223536
+  },
+  "metaverse": {
+   "name": "Metaverse",
+   "mcap": 1721302413.3620996,
+   "volume_24h": 129638884.69279954,
+   "mcap_pct_24h": -4.097772126427611
+  },
+  "payment-solutions": {
+   "name": "Payment Solutions",
+   "mcap": 1680227020.0432477,
+   "volume_24h": 111411514.10236464,
+   "mcap_pct_24h": -0.28559838727435954
+  },
+  "rollup": {
+   "name": "Rollup",
+   "mcap": 1595339326.442047,
+   "volume_24h": 232249365.62813747,
+   "mcap_pct_24h": -6.002927886485112
+  },
+  "socialfi": {
+   "name": "SocialFi",
+   "mcap": 1556837190.9041314,
+   "volume_24h": 126592132.03356653,
+   "mcap_pct_24h": -0.34604051775253547
+  },
+  "storage": {
+   "name": "Storage",
+   "mcap": 1387305606.9002209,
+   "volume_24h": 145976140.8077556,
+   "mcap_pct_24h": -0.6171625843479878
+  },
+  "identity": {
+   "name": "Decentralized Identifier (DID)",
+   "mcap": 1383821219.4286218,
+   "volume_24h": 145002963.18944007,
+   "mcap_pct_24h": -1.7057487857971958
+  },
+  "ai-framework": {
+   "name": "AI Framework",
+   "mcap": 1277089044.4780345,
+   "volume_24h": 138696573.58920115,
+   "mcap_pct_24h": -4.686311502322706
+  },
+  "play-to-earn": {
+   "name": "Play To Earn",
+   "mcap": 1257390337.5221615,
+   "volume_24h": 138145459.12676948,
+   "mcap_pct_24h": -1.5883262054090481
+  },
+  "analytics": {
+   "name": "Analytics",
+   "mcap": 1236008173.4777627,
+   "volume_24h": 142287093.17675397,
+   "mcap_pct_24h": -4.13716014539559
+  },
+  "bstocks-ecosystem": {
+   "name": "bStocks Ecosystem",
+   "mcap": 1179294722.178409,
+   "volume_24h": 616188771.4262877,
+   "mcap_pct_24h": -4.25389851040299
+  },
+  "superchain-ecosystem": {
+   "name": "Optimism Superchain Ecosystem",
+   "mcap": 1165056802.0387373,
+   "volume_24h": 141411970.20909703,
+   "mcap_pct_24h": -5.892372679953159
+  },
+  "morpho-ecosystem": {
+   "name": "Morpho Ecosystem",
+   "mcap": 1162901371.732649,
+   "volume_24h": 13645569.015415987,
+   "mcap_pct_24h": -4.205140987216725
+  },
+  "sidechain": {
+   "name": "SideChain",
+   "mcap": 1135322778.2495952,
+   "volume_24h": 77786392.55297722,
+   "mcap_pct_24h": -5.5306336796208315
+  },
+  "liquid-staking": {
+   "name": "Liquid Staking",
+   "mcap": 1130832019.5895517,
+   "volume_24h": 224413756.4393429,
+   "mcap_pct_24h": -4.8662029753837714
+  },
+  "masternodes": {
+   "name": "Masternodes",
+   "mcap": 1127484720.7576349,
+   "volume_24h": 44789084.634230286,
+   "mcap_pct_24h": -0.1083890576507054
+  },
+  "venice-ecosystem": {
+   "name": "Venice Ecosystem",
+   "mcap": 1123442757.4842818,
+   "volume_24h": 53658125.88326094,
+   "mcap_pct_24h": -10.888057755094602
+  },
+  "dex-aggregator": {
+   "name": "Dex Aggregator",
+   "mcap": 992835006.1360501,
+   "volume_24h": 93154116.14813587,
+   "mcap_pct_24h": -12.325246155811744
+  },
+  "restaking": {
+   "name": "Restaking",
+   "mcap": 960460102.8207709,
+   "volume_24h": 151018420.04480907,
+   "mcap_pct_24h": -8.526420819435936
+  },
+  "xstocks-ecosystem": {
+   "name": "BackedFi xStocks Ecosystem",
+   "mcap": 950436696.0720458,
+   "volume_24h": 152139696.0695559,
+   "mcap_pct_24h": -4.174473660355537
+  },
+  "ondo-tokenized-assets": {
+   "name": "Ondo Tokenized Assets",
+   "mcap": 948990012.1180985,
+   "volume_24h": 146892984.4333709,
+   "mcap_pct_24h": 1.9076640170878532
+  },
+  "bittensor-subnets": {
+   "name": "Bittensor Subnets",
+   "mcap": 849566718.1629516,
+   "volume_24h": 31307406.68757887,
+   "mcap_pct_24h": -4.2292701801438675
+  },
+  "bitcoin-layer-2": {
+   "name": "Bitcoin Sidechains",
+   "mcap": 848937084.5057818,
+   "volume_24h": 76655128.22656529,
+   "mcap_pct_24h": -6.832904108965726
+  },
+  "timefi": {
+   "name": "TimeFi",
+   "mcap": 816467726.6317031,
+   "volume_24h": 91087011.64157343,
+   "mcap_pct_24h": 18.166529005236775
+  },
+  "pump-fun": {
+   "name": "Pump.fun Ecosystem",
+   "mcap": 806155591.2482444,
+   "volume_24h": 144507132.44645178,
+   "mcap_pct_24h": -3.230098120844047
+  },
+  "eur-stablecoin": {
+   "name": "EUR Stablecoin",
+   "mcap": 803151244.6246691,
+   "volume_24h": 67274085.73430544,
+   "mcap_pct_24h": -1.007313678638499
+  },
+  "internet-of-things-iot": {
+   "name": "Internet of Things (IOT)",
+   "mcap": 801194204.8146911,
+   "volume_24h": 31706524.89480239,
+   "mcap_pct_24h": -2.240430495546031
+  },
+  "tokenized-exchange-traded-product-etps": {
+   "name": "Tokenized Exchange-Traded Product (ETPs)",
+   "mcap": 775409439.1455249,
+   "volume_24h": 336649166.16584027,
+   "mcap_pct_24h": 1.6382877453879057
+  },
+  "tokenized-exchange-traded-funds-etfs": {
+   "name": "Tokenized Exchange-Traded Funds (ETFs)",
+   "mcap": 775339607.5745691,
+   "volume_24h": 336646423.80014145,
+   "mcap_pct_24h": 1.6394018252826978
+  },
+  "gaming-blockchains": {
+   "name": "Gaming Blockchains",
+   "mcap": 743248957.1625738,
+   "volume_24h": 57537606.62949653,
+   "mcap_pct_24h": -3.137888333750382
+  },
+  "name-service": {
+   "name": "Name Service",
+   "mcap": 738267439.3811504,
+   "volume_24h": 18519021.149502624,
+   "mcap_pct_24h": 1.2946264851523872
+  },
+  "liquid-restaking-governance-token": {
+   "name": "Liquid Restaking Governance Tokens",
+   "mcap": 734284992.6146536,
+   "volume_24h": 93509115.28917211,
+   "mcap_pct_24h": -9.532201250631777
+  },
+  "liquid-staking-governance-tokens": {
+   "name": "Liquid Staking Governance Tokens",
+   "mcap": 733228314.4585321,
+   "volume_24h": 54391650.437307686,
+   "mcap_pct_24h": -6.112976580500184
+  },
+  "mobile-mining": {
+   "name": "Mobile Mining",
+   "mcap": 652283184.037126,
+   "volume_24h": 9862348.125898937,
+   "mcap_pct_24h": -10.171264191253586
+  },
+  "robotics": {
+   "name": "Robotics",
+   "mcap": 599018624.088756,
+   "volume_24h": 34539328.68168806,
+   "mcap_pct_24h": -3.318626715818999
+  },
+  "btcfi": {
+   "name": "BTCfi Protocol",
+   "mcap": 580921974.5240746,
+   "volume_24h": 73456105.28020673,
+   "mcap_pct_24h": -5.191476282818696
+  },
+  "chinese-meme": {
+   "name": "Chinese Meme",
+   "mcap": 579678890.8723661,
+   "volume_24h": 27950752.310007837,
+   "mcap_pct_24h": -3.8372855346932493
+  },
+  "vpn": {
+   "name": "VPN",
+   "mcap": 578248032.7137952,
+   "volume_24h": 9174522.847684575,
+   "mcap_pct_24h": 2.0765775119295142
+  },
+  "four-meme-ecosystem": {
+   "name": "Four.meme Ecosystem (BNB Memes)",
+   "mcap": 576473376.6567599,
+   "volume_24h": 17861099.41058221,
+   "mcap_pct_24h": -2.3225376388632406
+  }
+ },
+ "stablecoin_chains": {
+  "Movement": 37536634.82526331,
+  "Starknet": 35888839.54852623,
+  "Tron": 93077721081.0209,
+  "Monad": 635393922.9048051,
+  "Aptos": 899948515.8737061,
+  "Tezos": 28963649.64801026,
+  "PulseChain": 26732720.513144396,
+  "Immutable zkEVM": 11281738.424734714,
+  "Hedera": 26850414.627393045,
+  "Algorand": 131819661.69885312,
+  "Polygon": 3281877435.017651,
+  "Unichain": 45834753.85521521,
+  "Kava": 36694050.854577854,
+  "Ink": 375252907.0955313,
+  "Kaia": 196019707.2498248,
+  "Morph": 54020023.92282398,
+  "Osmosis": 14695195.50395842,
+  "Ethereum": 129781962044.23671,
+  "Linea": 36747377.82849017,
+  "Cardano": 59163146.53104869,
+  "XDC": 103832610.97369348,
+  "KCC": 10205023.797376677,
+  "Berachain": 30276484.145690575,
+  "Base": 4943433765.981612,
+  "Katana": 10373773.04741082,
+  "OP Mainnet": 408035109.3995699,
+  "BSC": 13848834062.346233,
+  "Flow": 36996921.41409005,
+  "Avalanche": 889403264.3803715,
+  "Arbitrum": 4173672843.5592337,
+  "Stacks": 11921110.958273422,
+  "Sui": 599047527.4508057,
+  "Plasma": 1444472913.642614,
+  "TON": 577931934.7112521,
+  "ZKsync Era": 34480960.68384519,
+  "Sei": 39217102.04398121,
+  "Injective": 49608624.39977543,
+  "Stable": 38990948.48859967,
+  "X Layer": 1473231115.4964685,
+  "Etherlink": 26147522.323979594,
+  "Gnosis": 13665719.990481885,
+  "Conflux": 20003721.56298013,
+  "Omni": 79956390.02255,
+  "Celo": 113990171.5110463,
+  "MegaETH": 23347012.19308482,
+  "Hyperliquid L1": 5937275455.366264,
+  "Mantle": 506635001.44692236,
+  "Near": 133243747.57193065,
+  "Flare": 38381670.197984904,
+  "Plume Mainnet": 11974849.999886213,
+  "Solana": 13223499637.577667,
+  "Tempo": 807766083.8839779,
+  "Polkadot": 68926806.9938198,
+  "RISE": 30019273.479268398,
+  "XRPL": 823059954.2541085,
+  "Cronos": 138264926.97235045,
+  "Noble": 42785131.60270031,
+  "Ronin": 11441874.914563423,
+  "World Chain": 17789334.710628808,
+  "Arc": 1596644829.9699938,
+  "Stellar": 403385214.9092951,
+  "Pharos": 15958115.742303593,
+  "Sonic": 94876018.81453858,
+  "Robinhood Chain": 1017918791.9846989,
+  "Fraxtal": 11157165.049160855,
+  "Abcore": 18558618.944096338,
+  "XRPL EVM": 52705585.12508381,
+  "Provenance": 359630790.19348824,
+  "Mezo": 16389200.794820048,
+  "Hydration": 11845793.861293098
+ }
+}
